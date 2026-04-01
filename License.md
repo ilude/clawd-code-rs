@@ -1,8 +1,7 @@
 Restricted Source-Available License
 Version 1.0
 
-Copyright (c) [YEAR] [COPYRIGHT HOLDER]
-
+Copyright (c) 2026 
 Permission is granted, free of charge, to any person or entity obtaining a copy of this
 software and associated documentation files (the "Software") to access, view, use, copy,
 modify, and distribute the Software, in source or binary form, with or without modification,
