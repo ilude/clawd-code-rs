@@ -1,7 +1,8 @@
 Restricted Source-Available License
-Version 1.0
+Version 1.2
 
-Copyright (c) 2026 
+Copyright (c) 2026 Kuber Mehta and contributors
+
 Permission is granted, free of charge, to any person or entity obtaining a copy of this
 software and associated documentation files (the "Software") to access, view, use, copy,
 modify, and distribute the Software, in source or binary form, with or without modification,
@@ -100,7 +101,7 @@ Software and destroy or permanently delete all copies of the Software and any de
 works in its possession, custody, or control, except to the extent retention is required by
 law.
 
-Sections 1, 3, 4, 7, 8, 9, and 10 shall survive termination.
+Sections 1, 3, 4, 7, 8, 9, 10, 13, 14, 15, and 16 shall survive termination.
 
 8. No Trademark Rights
 
@@ -124,11 +125,78 @@ DEALINGS IN THE SOFTWARE.
 
 11. Governing Law
 
-This License shall be governed by and construed in accordance with the laws applicable to the parties that are legally permitted to view and use this code,
-without regard to conflict of laws principles.
+This License shall be governed by and construed in accordance with the laws of [STATE OR
+COUNTRY], without regard to conflict of laws principles.
 
 12. Entire License
 
 This License constitutes the entire agreement between the copyright holder and any licensee
 with respect to the Software and supersedes any prior or contemporaneous understandings
 regarding the Software.
+
+13. Copyright Position; Takedown and Licensing Disputes
+
+The copyright holder states that the Software is made available solely under this License.
+No Excluded Party has any license or authorization to access, use, copy, modify, distribute,
+index, analyze, or create derivative works of the Software.
+
+A claim by an Excluded Party that the mere presence of the Software in this repository, or
+the refusal to license the Software to such Excluded Party, constitutes copyright
+infringement is expressly rejected. Restrictions on who receives a license under this
+License are licensing terms, and disagreement with those terms does not create any ownership
+or license rights in favor of an Excluded Party.
+
+If any person or entity submits a takedown request, notice of claimed infringement, or
+similar demand relating to the Software, the copyright holder reserves all rights to contest
+such notice, including by asserting license authorization, lack of infringement, fair use
+where applicable, parody, commentary, criticism, educational use, research use, mistake,
+misidentification, and misrepresentation under applicable law.
+
+14. Notices by Excluded Parties
+
+Because Excluded Parties are expressly denied any license or authorization under this
+License, any Excluded Party that submits or causes to be submitted a takedown notice,
+complaint, or other infringement allegation concerning the Software must identify with
+specificity:
+
+(a) the copyrighted work allegedly infringed;
+(b) the exact material accused of infringement;
+(c) the basis on which the complaining party claims ownership or enforcement authority;
+(d) the basis on which the complaining party contends the challenged use is not authorized
+    by the copyright holder, its agent, or the law; and
+(e) whether the notice is being submitted directly or indirectly for the benefit of
+    Anthropic, PBC or any other Excluded Party.
+
+Failure to provide such specificity may be used by the copyright holder as evidence that the
+notice was deficient, mistaken, or made without adequate investigation.
+
+15. Fair Use, Parody, Commentary, and Educational Position
+
+The copyright holder states that the repository may include material and expression intended
+for criticism, comment, parody, teaching, scholarship, research, documentation, security
+analysis, interoperability discussion, or other uses that may be authorized by law.
+
+No provision of this License shall be interpreted as a concession that any portion of the
+repository is infringing, or as a waiver of any defense, limitation, or protection available
+under applicable copyright law, including fair use, parody, commentary, criticism,
+education, research, and other noninfringing or otherwise lawful uses.
+
+Any person or entity asserting copyright infringement with respect to material in this
+repository is expected to evaluate in good faith whether the challenged material is
+authorized by the copyright holder, its agent, or the law, including by fair use and
+related doctrines, before submitting any notice, complaint, or takedown demand.
+
+16. Takedown Disputes and Reservation of Rights
+
+The copyright holder expressly reserves the right to dispute any takedown request, notice of
+claimed infringement, or similar demand directed at this repository on the grounds of
+license authorization, lack of substantial similarity, absence of actionable copying, fair
+use, parody, commentary, criticism, educational use, research use, and any other defense or
+limitation recognized by applicable law.
+
+A disagreement over the scope of this License, including the exclusion of certain parties
+from receiving a license, does not by itself establish copyright infringement.
+
+Any complaining party is expected to make a good-faith evaluation of whether the challenged
+material is not authorized by the copyright holder, its agent, or the law before submitting
+a notice.
