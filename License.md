@@ -207,3 +207,11 @@ Any complaining party is expected to evaluate in good faith whether the challeng
 is authorized by the copyright holder, its agent, or the law, including by license, fair use,
 parody, commentary, criticism, educational use, research use, and related doctrines,
 before submitting any notice.
+
+The copyright holder reserves all rights to seek damages, costs, attorneys’ fees, and any
+other monetary or equitable relief available under applicable law in connection with any
+knowing material misrepresentation, bad-faith takedown demand, or other wrongful attempt to
+remove, disable, suppress, or interfere with access to the Software or repository, including
+under 17 U.S.C. § 512(f). To the extent permitted by applicable law and available under a
+valid cause of action, the copyright holder further reserves the right to seek punitive or
+exemplary damages.
