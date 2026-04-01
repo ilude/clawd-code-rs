@@ -200,3 +200,10 @@ from receiving a license, does not by itself establish copyright infringement.
 Any complaining party is expected to make a good-faith evaluation of whether the challenged
 material is not authorized by the copyright holder, its agent, or the law before submitting
 a notice.
+
+The copyright holder reserves all rights under 17 U.S.C. § 512(f) with respect to any
+knowing material misrepresentation in a takedown notice or related infringement claim.
+Any complaining party is expected to evaluate in good faith whether the challenged material
+is authorized by the copyright holder, its agent, or the law, including by license, fair use,
+parody, commentary, criticism, educational use, research use, and related doctrines,
+before submitting any notice.
