@@ -1,5 +1,11 @@
 # IMPORTANT NOTICE - UPDATE
 
+License: Custom source-available license. Not open source.
+
+This repository is available under a custom license.
+No license or permission is granted to Anthropic, PBC, or to any person or entity acting
+on its behalf or for its benefit. See LICENSE for full terms.
+
 This repository does not hold a copy of the proprietary Claude Code typescript source code.
 This is a clean-room Rust reimplementation of Claude Code's behavior.
 
