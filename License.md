@@ -124,7 +124,7 @@ DEALINGS IN THE SOFTWARE.
 
 11. Governing Law
 
-This License shall be governed by and construed in accordance with the laws of [JURISDICTION],
+This License shall be governed by and construed in accordance with the laws applicable to the parties that are legally permitted to view and use this code,
 without regard to conflict of laws principles.
 
 12. Entire License
